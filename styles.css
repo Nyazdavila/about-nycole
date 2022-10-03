@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: deepskyblue;
+}
+h1{
+    font-style: oblique;
+}
+p{
+    font-style: inherit;
+}
