@@ -1,10 +1,31 @@
 body{
-    background-color: black;
-    color: deepskyblue;
+    background-color: purple;
+    color: black;
 }
+
 h1{
-    font-style: oblique;
+    text-align: center;
+    font-style: normal;
+    font-family: "Arial Black";
 }
+
 p{
-    font-style: inherit;
+    font-style: normal;
+    font-family: Serif;
+    font-size: 20px;
+    color: cornsilk;
 }
+
+.center {
+    text-align: center;
+}
+
+img {
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+
